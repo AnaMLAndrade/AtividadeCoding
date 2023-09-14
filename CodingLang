@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparação de Linguagens</title>
+    <link rel="stylesheet" type="text/css" href="code.css">
+
+</head>
+<body>
+    <h1>Comparação de Linguagens de Programação</h1>
+    <table>
+        <tr>
+            <th>Linguagem</th>
+            <th>Paradigma(s)</th>
+            <th>Tipagem</th>
+            <th>Popularidade</th>
+            <th>Facilidade de Aprendizado</th>
+            <th>Ecossistema/Comunidade</th>
+            <th>Aplicações Notáveis</th>
+            <th>Comentários</th>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Multiparadigma (procedural, orientada a objetos, funcional)</td>
+            <td>Fraca</td>
+            <td>Muito alta</td>
+            <td>Moderada</td>
+            <td>Vasta</td>
+            <td>Desenvolvimento web, Node.js, front-end</td>
+            <td>Conheço há um tempo por ser bastante famosa, ainda não mexi com ela. Parece ser fácil de usar.</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>Orientada a Objetos</td>
+            <td>Forte</td>
+            <td>Alta</td>
+            <td>Moderada</td>
+            <td>Grande</td>
+            <td>Desenvolvimento de aplicativos, servidores</td>
+            <td>Muitos falam mal, então tenho um pouco de receio. Penso que deve ser difícil. Vi pouco sobre e irei estudar sobre para a residência desse semestre.</td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+            <td>Multiparadigma (procedural, orientada a objetos)</td>
+            <td>Fraca</td>
+            <td>Moderada</td>
+            <td>Fácil</td>
+            <td>Moderada</td>
+            <td>Desenvolvimento web</td>
+            <td>Vi um pouco dessa linguagem quando meu grupo integrou front com um banco de dados e utilizamos PHP para isso. Achei relativamente fácil.</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>Multiparadigma (orientada a objetos, funcional)</td>
+            <td>Dinâmica</td>
+            <td>Muito alta</td>
+            <td>Fácil</td>
+            <td>Grande</td>
+            <td>Ciência de dados, automação, web</td>
+            <td>A famosinha da parada. Vários livos sobre, inclusive sobre seu uso em análise de dados. É realmente bem enxuta e fácil de usar.</td>
+        </tr>
+        <tr>
+            <td>C#</td>
+            <td>Orientada a Objetos</td>
+            <td>Forte</td>
+            <td>Alta</td>
+            <td>Moderada</td>
+            <td>Grande</td>
+            <td>Desenvolvimento de aplicativos Windows</td>
+            <td>Sei que algumas empresas a usam. Não utilizei ainda, mas estudei C semestre passado.</td>
+        </tr>
+        <tr>
+            <td>Go</td>
+            <td>Estática (Compilada)</td>
+            <td>Forte</td>
+            <td>Moderada</td>
+            <td>Moderada</td>
+            <td>Moderada</td>
+            <td>Desenvolvimento de sistemas, servidores</td>
+            <td> Vi essa linguagem sendo usada em um curso de Pentest. Não usei ainda.</td>
+        </tr>
+    </table>
+</body>
+</html>
